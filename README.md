@@ -11,7 +11,7 @@ Anda dapat melihat halaman Web saya [di sini](https://github.com/ElvianaEkaPutri
 3. File Tugas EMT format Markdown
 [File Tugas EMT format Markdown](https://github.com/ElvianaEkaPutri/Elviana-Eka-Putri_23030630094_Matematika-E-2023/blob/c87bdf6811fd64060ae4a85b88205c33659a2093/Markdown_Elviana%20Eka%20Putri%20(23030630094).zip)
 
-4. PDF Tugas EMT [PDF]()
+4. PDF Tugas EMT [PDF](https://github.com/ElvianaEkaPutri/Elviana-Eka-Putri_23030630094_Matematika-E-2023/blob/042251cfd28a849bfc2b2c792d8c622c5724f274/PDF_Elviana%20Eka%20Putri%20(23030630094).zip)
 
 5. PDF Tugas Membuat Dokumen Dengan Latex Menggunakan Overleaf [File PDF]()
 
